@@ -78,9 +78,9 @@
          width="6.25"
          height="4.5"
          x="28.893887"
-         y="43.336697" />
+         y="43.336697" />X
       <path
-         style="fill:#586e75;fill-opacity:1;stroke:none;stroke-width:0.416664px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#ccc5bc;fill-opacity:1;stroke:none;stroke-width:0.416664px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 28.875,47.836698 h 6.25 l -2.084227,2.5 h -2.081546 z"
          id="path1037" />
       <rect
@@ -109,7 +109,7 @@
     </g>
     <path
        id="rect841"
-       style="opacity:0.998;fill:#2aa198;fill-opacity:1;stroke-width:1.66668;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       style="opacity:0.998;fill:#ff5252;fill-opacity:1;stroke-width:1.66668;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
        d="m 11.521484,32.409248 c -1.7537722,0.216963 -3.2565582,4.209398 -2.8066402,8.257813 -0.054634,0.182686 -0.09375,0.371342 -0.09375,0.572265 v 6 c 0,1.108 0.892,2 2.0000002,2 h 6.9375 c 0.875623,0.07411 1.807284,0.09326 2.845703,0 h 23.191406 c 1.038419,0.09326 1.97008,0.07411 2.845703,0 h 6.9375 c 1.108,0 2,-0.892 2,-2 v -6 c 0,-0.200923 -0.03912,-0.389579 -0.09375,-0.572265 0.449918,-4.048415 -1.052868,-8.04085 -2.80664,-8.257813 -0.387909,-0.04799 -0.787498,0.08908 -1.179688,0.451172 -6.224828,5.747121 -14.322266,6.378906 -14.322266,6.378906 h -9.953125 c 0,0 -8.097437,-0.631785 -14.322265,-6.378906 -0.39219,-0.362092 -0.79178,-0.49916 -1.179688,-0.451172 z" />
   </g>
 </svg>

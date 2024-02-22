@@ -1,6 +1,7 @@
 # Mainsail-Red
 A clean modern MainsailOS inspired *Klipper Screen Theme* adaptation on *Material-darker* ❤️
-![move](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/b18fc88e-7039-4875-bed2-876e9b932768)
-![more](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/ae5d9d39-7eb5-40ef-8804-f60a35797e4a)
-![bedlevel](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/9d6a91b9-c60e-4845-9ee3-443cea4c7ed1)
-![home](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/65af3257-13c3-4bee-9018-d27031388cb5)
+![menu](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/f5d543e2-7c29-42c4-bb8e-333fe84196c0)
+![bedlevel](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/081cdf7d-767f-43fb-a21f-1240310e4e64)
+![move](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/2e82e9cd-3bec-4696-a368-d425f2f09b3e)
+![more](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/c2805ebe-0ca9-43b6-8bd0-4f45040646b7)
+![console](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/177d58ef-5923-4c3d-9d47-94ad068f0fa2)

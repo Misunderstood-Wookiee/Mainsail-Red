@@ -1,2 +1,2 @@
 # Mainsail-Red
-A Klipper Screen Theme
+A *Klipper Screen Theme* adaptation from *Material-darker*

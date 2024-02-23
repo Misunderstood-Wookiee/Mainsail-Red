@@ -11,4 +11,4 @@ A clean modern MainsailOS inspired *Klipper Screen Theme* adaptation which meshe
 ![move](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/2e82e9cd-3bec-4696-a368-d425f2f09b3e)
 ![more](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/c2805ebe-0ca9-43b6-8bd0-4f45040646b7)
 ![console](https://github.com/Misunderstood-Wookiee/Mainsail-Red/assets/22002023/177d58ef-5923-4c3d-9d47-94ad068f0fa2)
-*Respect the indipendant works of others, this style uses in part the styles colourized & material darker by Alfredo Monclus
+**Respect the indipendant works of others, this style uses in part the styles colourized & material darker by Alfredo Monclus**

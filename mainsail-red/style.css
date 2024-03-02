@@ -13,7 +13,7 @@ Adapted by MoistDreams 2024 */
 @define-color background-color_7 #545454;
 @define-color background-color_8 #006412;
 @define-color background-color_9 #EF6C00;
-@define-color background-color_10 #ff0037;
+@define-color background-color_10 #ff0000;
 @define-color background-color_12 #f9b274;
 @define-color background-color_13 #CF6679;
 @define-color background-color_14 #090909;
@@ -136,7 +136,7 @@ scrollbar trough {
 }
 
 scrollbar slider {
-    background-color: #ff0037;
+    background-color: #ff0000;
 }
 
 textview .time {
@@ -159,7 +159,7 @@ textview .time {
 
 
 .dialog-error {
-    border-bottom-color: #ff0037;
+    border-bottom-color: #ff0000;
 }
 
 .dialog-warning {
@@ -212,7 +212,7 @@ textview .time {
 
 .message_popup_error,
 .message_popup_error button {
-    background-color: #ff0037;
+    background-color: #ff0000;
 }
 
 .numpad_key {
@@ -225,7 +225,7 @@ textview .time {
 }
 
 .printing-progress-text {
-    color: #7900a9;
+    color: #ff0000;
 }
 
 .printing-status-label {
@@ -233,9 +233,9 @@ textview .time {
 }
 
 .message {
-    border-color: #ff0037;
+    border-color: #ff0000;
     color: #e2e2e2;
-    background-color: #ff0037;
+    background-color: #ff0000;
 }
 
 .message button {
